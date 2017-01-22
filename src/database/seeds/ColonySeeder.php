@@ -1,8 +1,8 @@
 <?php
 namespace CleaniqueCoders\Colonies\Database\Seeds;
-use Clenaiquecoders\Colonies\Models\District;
-use Clenaiquecoders\Colonies\Models\State;
-use Clenaiquecoders\Colonies\Models\SubDistrict;
+use CleaniqueCoders\Colonies\Models\District;
+use CleaniqueCoders\Colonies\Models\State;
+use CleaniqueCoders\Colonies\Models\SubDistrict;
 use Illuminate\Database\Seeder;
 
 class ColonySeeder extends Seeder
